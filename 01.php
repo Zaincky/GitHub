@@ -6,4 +6,5 @@ $b = 5;
 
 echo $a*$b;
 echo "alamos";
+echo "Seguro?";
 ?>
